@@ -35,10 +35,11 @@ This project used other Open Source projects:
 </ul>
 
 # Thanks
+HEAVY Credits to <a href='https://github.com/Adrianotiger'>Adriano</a>, for all the code and the 64bit eSheep, and ALL The Code of the HTML Page.
 <a href='https://github.com/Grunwaldt'>Sergi</a> for the Tray Icon<br>
 <a href='https://github.com/rluiten'>Robin</a> improving the code and implementing the <a href='https://github.com/Adrianotiger/desktopPet/issues/6'>Graphviz tool</a><br>
 <a href='https://github.com/OliverPets'>Oliver</a> for the rainbow sheeps and the many animations<br>
-<a href='https://github.com/Adrianotiger'>Adriano</a> for the rainbow sheeps and the many animations<br>
+
 
 # Want to create your own mate/pet?
 I am working on an offline editor: <a href='https://github.com/Adrianotiger/desktopPet/releases/tag/editor0.2'>Download offline editor from GitHub</a>.<br>
