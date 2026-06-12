@@ -48,4 +48,4 @@ What you need are:
 <li>1 application icon (.ico file)
 <li>1 animation image: an image with transparency with all possible positions. (.png not too big... Something like 1000x500 px)
 </ul><br />
-For more info about editing the xml file and add your own pet, follow the <a href='../../wiki/'>Wiki</a> page.<br /> or download the manual to develop your pet online: <a href='https://github.com/Adrianotiger/desktopPet/raw/master/Manual/Manual%20-%20online%20editor.docx'>Manual-online editor.docx</a>
+For more info about editing the xml file and add your own pet, follow the <a href='../../wiki/'>Wiki</a> page.<br /> or download the manual to develop your pet online: <a href='https://github.com/Adrianotiger/desktopPet/raw/master/Manual/Manual%20-%20online%20editor.docx'>Manual-online editor.docx</a>, And If Your pet is good enough, i will add it!
