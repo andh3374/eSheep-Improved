@@ -3,12 +3,12 @@
 Can you remember eSheep, the lovely desktop sheep?
 <img src='src/Images/esheep.png' /><br />
 If you had a lot of them on the desktop... welcome to this page!<br />
-This project gives you the possibility to add a pet to your desktop.<br />[![eSheep for 64bit systems](https://img.youtube.com/vi/xN90p16tKGE/0.jpg)](https://www.youtube.com/watch?v=xN90p16tKGE) 
+This project gives you the possibility to add a pet to your desktop, and improved!<br />[![eSheep for 64bit systems](https://img.youtube.com/vi/xN90p16tKGE/0.jpg)](https://www.youtube.com/watch?v=xN90p16tKGE) 
 
-With a simple XML file (animations.xml) it is possible to change pet and animations.
+With a simple XML file (animations.xml), it is possible to change pet and animations.
 
 # Application
-This application is not a game, not an utility and not useful :P it simply shows you
+This application is not a game, not an utility, not a addon, not a extension, and not useful :P it simply shows you
 a pet on the screen. This pet can fall down up to the taskbar and is able to detect 
 windows on your desktop.<br />
 In this way, this pet is able to walk, run, etc around your working screen area (also on multiscreens).
@@ -19,14 +19,14 @@ In this way, this pet is able to walk, run, etc around your working screen area 
 |--------|----------------|------------|---------|-------|
 | Type |  Portable exe | Store app | Javascript | Desktop applications |
 | Description | Download rar, extract exe file and execute it. There is no installation. | Download it directly from the Microsoft store | Javascript file to implement it on your webpage | Some tools to edit and create your own pet.
-| Link | <a href='https://github.com/Adrianotiger/desktopPet/releases/latest'><img src='https://img.shields.io/github/downloads/adrianotiger/desktopPet/total.svg'></a> | <a href='https://www.microsoft.com/store/apps/9MX2V0TQT6RM'>Windows store</a> | <a href='https://github.com/Adrianotiger/web-esheep'>Open GitHub</a> project | -<a href='https://github.com/Adrianotiger/desktopPet/releases/latest'>Download Pet Editor</a> |
+| Link | <a href='https://github.com/Adrianotiger/desktopPet/releases/latest'><img src='https://img.shields.io/github/downloads/adrianotiger/desktopPet/total.svg'></a> | <a href='https://www.microsoft.com/store/apps/9MX2V0TQT6RM'>Windows store</a> | <a href='https://github.com/Adrianotiger/web-esheep'>Open GitHub</a> project | -<a href='https://github.com/Adrianotiger/desktopPet/releases/latest'>Download Pet Editor</a> | (Actually this will send you to install the og eSheep 64bit, i'll soon improve to import to downladable.
 
 # Screen Mates included in this application
 | | | | |
 |--------|--------|----|-----|
 | eSheep <br> [![eSheeps](Pets/esheep64/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/esheep64/)  | gSheep Blue <br> [![Blue Sheep](Pets/blue_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/blue_sheep/)  | gSheep Green <br> [![Green Sheep](Pets/green_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/green_sheep/) | gSheep Orange <br> [![Orange Sheep](Pets/orange_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/orange_sheep/)  |
 | gSheep Pink <br> [![Pink Sheep](Pets/pink_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/pink_sheep/)  | gSheep Purple <br> [![Purple Sheep](Pets/purple_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/purple_sheep/)  | gSheep Red <br> [![Red Sheep](Pets/red_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/red_sheep/) | gSheep Yellow <br> [![Yellow Sheep](Pets/yellow_sheep/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/yellow_sheep/)  |
-|Bunny <br> [![Bugs Bunny](Pets/bbunny/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/bbunny/)  | Asuna <br> [![Asuna](Pets/negima/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/negima/)  | Neko <br> [![Neko](Pets/neko/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/neko/) | Pingus <br> [![Pingus](Pets/pingus/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/pingus/)  |
+|Bunny <br> [![Bugs Bunny](Pets/bbunny/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/bbunny/)  | Asuna <br> [![Asuna](Pets/negima/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/negima/)  | Neko <br> [![Neko](Pets/neko/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/neko/) | Pingus <br> [![Pingus](Pets/pingus/icon.png)](https://adrianotiger.github.io/desktopPet/Pets/pingus/)  |, and a LOT More.
 
 # Credits
 This project used other Open Source projects:
