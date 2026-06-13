@@ -19,7 +19,7 @@
                 </StackPanel>
                 <TextBlock Style="{StaticResource TitleTextBlockStyle}" Padding="0,20,0,0">Pets to launch</TextBlock>
                 <StackPanel Margin="30,0,0,0">
-                    <Slider Margin="10" Header="?" Minimum="1" Maximum="16" StepFrequency="1" TickPlacement="Outside" TickFrequency="1" x:Name="petsQuantitySlider"></Slider>
+                    <Slider Margin="10" Header="?" Minimum="1" Maximum="25" StepFrequency="1" TickPlacement="Outside" TickFrequency="1" x:Name="petsQuantitySlider"></Slider>
                     <TextBlock>How many pets to start together when the app is launched.</TextBlock>
                 </StackPanel>
                 <TextBlock Style="{StaticResource TitleTextBlockStyle}" Padding="0,20,0,0">Developer Area</TextBlock>
