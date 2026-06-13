@@ -1,3 +1,7 @@
+# README
+
+This will actually downoad the OG eSheep. i'll soon implement download.
+
 # Downloads
 
 This application has different versions, you can download a Windows 7/8/10 portable exe, a UWP or also a Javascript version.
