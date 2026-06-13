@@ -7,7 +7,7 @@ It is a simple sheep walking over your desktop and over your windows.
 
 Other '90 screen mates in this project:
 - [eSheep](../esheep64) or the better [gSheep](../gsheep-green)
-- [Improved eSheep](WIP)
+- [Improved eSheep] it's WIP 
 - [Neko](../neko)
 - [Pingus](../pingus)
 
