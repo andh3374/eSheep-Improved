@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <WebView Source="https://adrianotiger.github.io/desktopPet/" />
+        <WebView Source="https://andh3374.github.io/eSheep-Improved/" />
     </Grid>
 </Page>
