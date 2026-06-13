@@ -12,9 +12,11 @@ Other '90 screen mates in this project:
 - [Pingus](../pingus)
 
 ## Changelog
-v1.8 first version for UWP app
+Test 1 Added the project
 
 ## About pet
-Author: Adriano Petrucci
+Author: andh3374
+
+Original Author: Adriano Petrucci
 
 Copyright: sprites from [LiL_Stenly](http://spritedatabase.net/game/2071)
