@@ -15,8 +15,6 @@ Other '90 screen mates in this project:
 Test 1 Added the project
 
 ## About pet
-Author: andh3374
-
-Original Author: Adriano Petrucci
+Author: Adriano Petrucci
 
 Copyright: sprites from [LiL_Stenly](http://spritedatabase.net/game/2071)
