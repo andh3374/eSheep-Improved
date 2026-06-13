@@ -18,7 +18,7 @@
                     Original concept and artwork by Tatsutoshi Nomura
                 </TextBlock>
                 <TextBlock Style="{StaticResource BaseTextBlockStyle}" TextAlignment="Center">
-                    C# Application code by Adriano Petrucci
+                    C# Application code by Adriano Petrucci and improved by andh3374
                 </TextBlock>
                 <Line Height="20">
                 
